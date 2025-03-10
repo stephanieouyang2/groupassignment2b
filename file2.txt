@@ -1,1 +1,1 @@
-Second file content
+Content for file2
